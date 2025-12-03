@@ -86,11 +86,3 @@ O usuário é o único responsável pelo respeito aos Termos de Serviço do YouT
 
 ---
 Desenvolvido por Murilo
-Passo 2: Atualize o arquivo em Inglês (README.md)
-Agora, vá no arquivo README.md (aquele em inglês que você já criou) e adicione apenas este bloco no topo dele, logo na primeira linha:
-
-<div align="center">
-  <a href="README.md">🇺🇸 English</a> | <a href="README.pt-br.md">🇧🇷 Português</a>
-</div>
-
-<br />
