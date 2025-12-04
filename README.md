@@ -30,7 +30,7 @@
 
 ## 🛠️ Tech Stack
 
-* **Python 3.x**
+* **Python 3.12**
 * **yt-dlp:** The most robust and up-to-date download engine available.
 * **Questionary:** For creating professional, interactive CLI menus.
 * **Mutagen:** For handling audio metadata.

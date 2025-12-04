@@ -30,7 +30,7 @@ O **BaixeTube** é uma aplicação completa desenvolvida para demonstrar conceit
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python 3.x**
+* **Python 3.12**
 * **yt-dlp:** O motor de download mais robusto e atualizado do mercado.
 * **Questionary:** Para criação de menus CLI profissionais e interativos.
 * **Mutagen:** Para manipulação de metadados de áudio.
